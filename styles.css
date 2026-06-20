@@ -69,7 +69,7 @@ button:focus,
 
 .eyebrow {
   margin: 0 0 1rem;
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 0.24em;
   color: #7fb1ff;
   font-size: 0.85rem;
